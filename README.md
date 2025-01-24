@@ -24,4 +24,4 @@ EduSpace is the modern, efficient platform for skill enhancement through online 
 
  # OUTPUT
 
- ![Image](https://github.com/user-attachments/assets/2d136082-7d5d-45d5-9f5c-6710d12dbb48)
+ ![Image](https://github.com/user-attachments/assets/e47d133f-2a4a-4c14-93b6-7cede1d5c5a8)
