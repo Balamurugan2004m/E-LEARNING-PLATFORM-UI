@@ -14,13 +14,13 @@ MENTOR: NEELA SANTOSH KUMAR
 
 # DESCRIPTION
 
-This is a Quiz Web application on which a quiz can be made to interact through a number of 10 enjoyable and engaging questions through which one gets to test himself. It aims to make a simple app easily navigable along with making an attractive appeal as it's quite basic and carries a neat view with a responsible look as of Bootstrap 4.5 with which it functions well both desktop and mobile applications.
+EduSpace is a modern, interactive e-learning platform with the goal of making learning a seamless experience for students. It has courses in areas such as Web Development, Data Science, and Digital Marketing, suitable for all learners. Every course is supported with comprehensive resources and structured lessons that guide users throughout their educational journey.
 
-The app provides each question with four possible answers, and the user selects the one they think is correct. Immediately after answering a question, the app shows whether the answer was correct or wrong and updates the score. A "Next" button allows users to move to the next question, with feedback appearing after each selection. As users continue answering, their score is displayed, and they get a sense of how well they're doing.
+The real-time progress tracking system is the core feature of EduSpace. This helps the users track their learning journey. With an interactive progress bar, students can see how much they have covered in courses and be motivated to keep going. The dynamic interface of the platform updates the progress bar in real time, giving students a clear view of how far they have come.
 
-When the quiz has been finished, the user is presented with their final score and given the option to restart or close the quiz. The clean lines and intuitive interfaces make it easy to navigate, and the app runs quickly, uncluttered by unnecessary distractions.
- 
- This is one of those web apps that any user can learn from, have fun with, and test themselves on while being given instant feedback.
+The design is sleek and responsive, fluid by Bootstrap, thus ensuring a very smooth experience for viewing on both the desktop and mobile. The about section of EduSpace provides a more detailed background regarding the mission and vision of the platform, besides easy-to-navigate sections including courses and tracking of progress.
+
+EduSpace is the modern, efficient platform for skill enhancement through online learning, and it focuses on engagement, progress tracking, and personalization in learning.
 
  # OUTPUT
 
