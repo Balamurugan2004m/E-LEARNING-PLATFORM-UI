@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fc;
+    color: #333;
+}
+
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #007bff;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1rem;
+    color: #555;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+header.jumbotron {
+    background-color: #007bff;
+    color: white;
+    padding: 60px 20px;
+}
+
+header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+#courses {
+    background-color: white;
+}
+
+#courses h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card-img-top {
+    border-radius: 10px 10px 0 0;
+    background-size:cover;
+    height: 200px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #777;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+
+#progress {
+    background-color: #f8f9fa;
+}
+
+.progress {
+    height: 30px;
+    border-radius: 15px;
+    background-color: #e9ecef;
+}
+
+.progress-bar {
+    background-color: #28a745;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 15px;
+}
+
+#progress p {
+    font-size: 1rem;
+    color: #555;
+}
+
+
+#about {
+    background-color: white;
+    text-align: center;
+}
+
+#about h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+#about p {
+    font-size: 1.1rem;
+    color: #555;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+footer p {
+    font-size: 1rem;
+}
